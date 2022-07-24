@@ -1,4 +1,4 @@
-package com.project.springcloudzuuljt2;
+package com.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
