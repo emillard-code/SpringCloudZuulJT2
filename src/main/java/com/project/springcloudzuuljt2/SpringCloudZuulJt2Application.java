@@ -20,7 +20,7 @@ public class SpringCloudZuulJt2Application {
     @GetMapping("/welcome/{name}")
     public String wish(@PathVariable String name) {
 
-        return "Hi "+name+" Welcome to Doctor Service";
+        return "Hi "+ name +" Welcome to Doctor Service";
 
     }
 
